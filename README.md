@@ -1,5 +1,5 @@
 # proyecto_Kaggle_Modelos_I
-En este repositorio se encuentran las entregas de la competencia en Kaggle, proyecto para la materia modelos I.
+En este repositorio se encuentran las entregas de la competencia en Kaggle, proyecto para la materia Modelos I.
 
 **Nombre:** Juan Pablo Uribe González
 
