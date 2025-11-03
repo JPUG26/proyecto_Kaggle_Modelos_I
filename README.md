@@ -6,3 +6,5 @@ En este repositorio se encuentran las entregas de la competencia en Kaggle, proy
 **Cédula:** 1.035.423.697
 
 **Programa:** Ingeniería de sistemas
+
+**Enlace video youtube:** https://youtu.be/2MCGgPScMuY
