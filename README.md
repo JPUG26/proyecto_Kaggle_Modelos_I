@@ -7,4 +7,6 @@ En este repositorio se encuentran las entregas de la competencia en Kaggle, proy
 
 **Programa:** Ingeniería de sistemas
 
-**Enlace video youtube:** https://youtu.be/2MCGgPScMuY
+**Enlace video segunda entrega:** https://youtu.be/2MCGgPScMuY
+
+**Enlace video entrega final:** https://youtu.be/NxmGOwZkVHU
